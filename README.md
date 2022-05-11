@@ -6,8 +6,9 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling 
 
 # Links
-- github:
-- heroku:
+- github: https://github.com/bspratford7719/lets-budget
+- heroku: https://git.heroku.com/limitless-forest-97924.git
+
 
 # Expectations
 GIVEN a budget tracker without an internet connection
